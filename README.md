@@ -64,3 +64,5 @@ Comprehensive error handling for validation issues and server/database errors en
 ![Image_Alt](https://github.com/Ritik046/ProjectAI/blob/d119fd1b5e497274694b57a6b6e1d7136a59d71e/m6.png)
 
 ![Image_Alt](https://github.com/Ritik046/ProjectAI/blob/1264b4546bdeb73d719d1dd8ce04f1aff51f10f7/m8.png)
+
+![Image_Alt](https://github.com/Ritik046/ProjectAI/blob/0e19a6dd4b6f8e673e71e329fec88937c0f29a72/m9.png)
