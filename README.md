@@ -50,3 +50,5 @@ Multer middleware handles image uploads, with validation for up to 10 images per
 Comprehensive error handling for validation issues and server/database errors ensures robust operation.
 
 ![Image_Alt](https://github.com/Ritik046/ProjectAI/blob/ad745639f230a3535b8bf648926bbf2b0e8aefa8/m0.png)
+
+![Image_Alt](https://github.com/Ritik046/ProjectAI/blob/766f93853967f69a98c18563b293b1750ef1fb23/m1.png)
